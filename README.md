@@ -1,7 +1,7 @@
 # 💫 About Me:
 ¡Hola! Soy Diana Matamoros 
 
-Desarrolladora Web con una sólida base en tecnologías clave, como JavaScript, HTML, CSS y Firebase. Mi experiencia previa en atención al cliente me ha proporcionado una comprensión profunda de las necesidades y expectativas del cliente final. Mi pasión radica en aprovechar la tecnología para impulsar el crecimiento y mejorar la eficiencia operativa de las empresas. 
+Desarrolladora Web con una sólida base en tecnologías clave, como JavaScript, HTML, CSS y React. Mi experiencia previa en atención al cliente me ha proporcionado una comprensión profunda de las necesidades y expectativas del cliente final. Mi pasión radica en aprovechar la tecnología para impulsar el crecimiento y mejorar la eficiencia operativa de las empresas. 
 Me considero una persona curiosa y apasionada por el aprendizaje, lo que me capacita para enfrentar nuevos desafíos con entusiasmo y disfrutar de su proceso de desarrollo. Además, valoro el trabajo en equipo y la colaboración, lo que me permite contribuir de manera efectiva en proyectos multidisciplinarios
 
 
